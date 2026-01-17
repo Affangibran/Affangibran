@@ -11,5 +11,5 @@ Affangibran/Affangibran is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <div>
-  <title> Hallo ini Punya Affan hehe </title>
+  <title> Selamat datang di akun saya </title>
 </div>
